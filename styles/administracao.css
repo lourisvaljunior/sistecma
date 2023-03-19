@@ -1,0 +1,23 @@
+/* CSS Document */
+.topnav-right {
+  		float: right;
+		margin-right:5px;
+		font-size:24px;
+		}
+		
+div.body-content{
+  /** Essa margem vai evitar que o conteudo fique por baixo do rodapé **/
+  margin-bottom: 40px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#333333;
+   color: white;
+   text-align: right;
+   padding-right:20px;
+}
+

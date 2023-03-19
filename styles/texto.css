@@ -1,0 +1,36 @@
+/* CSS Document */
+.topnav-right {
+  		float: right;
+		margin-right:5px;
+		font-size:24px;
+		}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#333333;
+   color: white;
+   text-align: right;
+   padding-right:20px;
+}
+/*Fim do estilo do menu e rodapé */
+
+#container{
+	width:1024px;
+	height:200px;
+	margin:0 auto;
+	}
+#cad_texto{
+	width:505px;
+	height:200px;
+	float:left;
+	margin-right:1px;
+	}
+#listagem{
+	width:505px;
+	height:200px;
+	float:left;
+	}		
+</style>

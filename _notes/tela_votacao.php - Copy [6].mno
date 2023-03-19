@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordsetTipo" value="name:eleicao;datatype:string" />
+	<infoitem key="UD_BuscaNumero" value="name:id_candidato;datatype:int,name:chapa;datatype:string,name:numero;datatype:int" />
+</info>

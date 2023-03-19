@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+#container{
+	width:680px;
+	height:500px;
+	margin:0 auto;
+	margin-top:50px;
+	text-align:center;
+	box-shadow: 1px 1px 1px 2px #E9E9E9;
+}
+#logo{
+	width:300px;
+	height:50px;
+	margin: 0 auto;
+	margin-top:20px;
+	background-image:url(../images/name.fw.png);
+	background-repeat:no-repeat;
+	text-align:center;
+}
+#login{
+	width:380px;
+	height:500px;
+	float:left;
+}
+#cadastro{
+	width:300px;
+	height:400px;
+	margin:0 auto;
+	padding:20px;
+}
+#image{
+	width:300px;
+	height:497px;
+	float:left;
+	background-image:url(../images/right.fw.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}

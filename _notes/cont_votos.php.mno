@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ReultVotos" value="name:chapa;datatype:string" />
+	<infoitem key="UD_QuantVotos" value="name:chapa;datatype:int" />
+	<infoitem key="UD_ContVotos" value="name:chapa;datatype:string,name:Qtd;datatype:string" />
+	<infoitem key="UD_RecordsetResult" value="name:id_votos;datatype:int,name:chapa;datatype:string,name:numero;datatype:int,name:Qtd;datatype:string" />
+</info>

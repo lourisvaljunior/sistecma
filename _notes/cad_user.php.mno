@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordUsers" value="name:id_user;datatype:int,name:usuario;datatype:string,name:senha;datatype:string" />
+	<infoitem key="UD_RecordsetUser" value="name:id_user;datatype:int,name:usuario;datatype:string,name:senha;datatype:string" />
+	<infoitem key="UD_RecAlterUser" value="name:id_user;datatype:int,name:user;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_RecCadUser" value="name:id_user;datatype:int,name:user;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_RecUsuarios" value="name:id_user;datatype:int,name:usuario;datatype:string,name:senha;datatype:string" />
+	<infoitem key="UD_RecordUser" value="name:id_user;datatype:int,name:usuario;datatype:string,name:senha;datatype:string" />
+</info>

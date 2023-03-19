@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset_votacao" value="name:id_votos;datatype:int,name:chapa;datatype:string,name:numero;datatype:int" />
+	<infoitem key="UD_Recordset_eleitorado" value="name:chapa;datatype:string" />
+	<infoitem key="UD_RecordsetTipo" value="name:eleicao;datatype:string" />
+	<infoitem key="UD_RecordCandidatos" value="name:id_candidato;datatype:int,name:chapa;datatype:string,name:numero;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:chapa;datatype:string,name:numero;datatype:int" />
+</info>

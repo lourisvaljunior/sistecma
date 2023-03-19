@@ -1,0 +1,138 @@
+/* CSS Document */
+/*Alterar background */
+
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+p{
+	color:#000000;
+	}
+/* ========================== */
+/*Divs da urna */
+#container{
+	width:1085px;
+	height:540px;
+	margin:0 auto;
+	margin-top:0px;
+}
+
+#topo{
+	width:1087px;
+	height:70px;
+	background-image:url(../images/topo.fw.png);
+	background-repeat:no-repeat;
+}
+
+#tela{
+	width:695px;
+	height:465px;
+	float:left;
+	background-image:url(../images/tela.fw.png);
+	background-repeat:no-repeat;
+	font-size:30px;
+}
+
+#foto{
+	width:135px;
+	height:177px;
+	float:left;
+	margin-left:80px;
+	margin-top:10px;
+	background:url(../images/ma2.png);
+	background-repeat:no-repeat;
+	border:solid 1px #CCCCCC;
+	text-align:center;
+}
+
+#tipo_eleicao{
+	width:540px;
+	height:50px;
+	margin-top:80px;
+	margin-left:70px;
+	text-align:center;
+	font-weight:bold;
+	font-size:36px;
+	color:#000000;
+	border-bottom-color:#000;
+	border-bottom:solid;
+	text-align:center;
+	}
+#voto{
+	width:390px;
+	height:110px;
+	margin-top:50px;
+	margin-left:20px;
+	float:left;
+	text-align:left;
+	color:#000000;
+	border-bottom-color:#000;
+	border-bottom:solid;
+	}
+imput[type="text"]{text-align:center;}
+
+/* Div que usava a logo
+#logo{
+	width:385px;
+	height:0px;
+	float:left;
+	background-image:url(../images/logo.fw.png);
+	background-repeat:no-repeat;
+}
+*/
+
+#teclado {
+	background-image:url(../images/teclado.fw.png);
+	width:390px;
+	height:465px;
+	float:right;
+	background-repeat:no-repeat;
+	position:static;
+}
+
+#teclas{
+	width:330px;
+	height:300px;
+	margin:0 auto;
+	margin-top:30px;
+	text-align:center;
+}
+option[type="selected"]{
+	width:250px;
+	}
+input{
+	width:20px;
+	font-size:36px;
+	}	
+#votacao{
+	width: 1080px;
+	height: 120px;
+	position: absolute;
+	margin-top: 342px;
+	top: 102px;
+	}
+#confirma{
+	width:630px;
+	height:100px;
+	margin-left:80px;
+	text-align:center;
+	position:absolute;
+	font-weight:bold;
+	}
+#botao{
+	width:380px;
+	height:100px;
+	margin-left:700px;
+	margin-top:20px;
+	right:2px;
+	position:absolute;
+	text-align:center;
+	}
+	

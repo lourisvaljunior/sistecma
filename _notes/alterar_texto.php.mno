@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordsetTexto" value="name:id_tipo;datatype:int,name:eleicao;datatype:string" />
+	<infoitem key="UD_RecordAlterTexto" value="name:id_tipo;datatype:int,name:eleicao;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lista" value="name:id_candidato;datatype:int,name:chapa;datatype:string,name:numero;datatype:int,name:foto;datatype:string" />
+</info>
